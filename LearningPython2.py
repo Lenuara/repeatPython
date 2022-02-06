@@ -18,7 +18,7 @@
 #     answer = float(answer)
 #     print("а это float", answer)
 #======================================
-# Угадай число за 5 попыток
+# Угадай число
 
 import random
 i=0
